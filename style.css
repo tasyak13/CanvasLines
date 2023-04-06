@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canv {
+    border: 1px solid gray;
+    /* background-color: bisque; */
+}
